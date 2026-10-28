@@ -1,0 +1,15 @@
+
+html {
+  min-width: 320px;
+  min-height: 100%;
+}
+
+body {
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+::selection {
+  background: #6f5bd3;
+  color: white;
+}
